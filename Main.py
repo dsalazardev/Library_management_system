@@ -203,7 +203,7 @@ def gestionar_recursion(biblio: Biblioteca):
     autor = input("Nombre exacto del Autor (ej: Gabriel Garcia Marquez): ")
 
     print("\n1. Libro más ligero (Recursión Pila - MODIFICACIÓN 1)")
-    isbn_ligero = biblio.encontrar_libro_ligero_autor(autor)
+    isbn_ligero = biblio.buscar_libro_mas_ligero_por_autor(autor)
     print(f"   ISBN del libro más ligero: {isbn_ligero}")
 
     print("\n2. Peso promedio (Recursión Cola)")
