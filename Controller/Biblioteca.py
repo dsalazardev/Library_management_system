@@ -40,9 +40,10 @@ class Biblioteca:
 
         try:
             if ruta.endswith('.csv'):
-                with open(ruta, mode='r', encoding='utf-8') as f:
+                with open(ruta, mode='r', encoding='utf-8-sig') as f:
                     reader = csv.DictReader(f)
                     for row in reader:
+                        print(f"Row: {row}")
                         libro = Libro(
                             isbn=row['isbn'],
                             titulo=row['titulo'],

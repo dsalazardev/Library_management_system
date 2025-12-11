@@ -33,7 +33,7 @@ class Estanteria:
             libro = libros[i]
 
             if libro.peso < 0.5:
-                continue  # Skip this branch entirely
+                continue  
 
             if peso_actual + libro.peso <= max_peso:
 

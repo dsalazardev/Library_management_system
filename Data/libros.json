@@ -1,0 +1,82 @@
+[
+    {
+        "isbn": "978-201",
+        "titulo": "La Chica del Tren",
+        "autor": "Paula Hawkins",
+        "peso": 0.6,
+        "valor": 48000,
+        "stock": 3
+    },
+    {
+        "isbn": "978-202",
+        "titulo": "El Silmarillion",
+        "autor": "J.R.R. Tolkien",
+        "peso": 1.4,
+        "valor": 130000,
+        "stock": 2
+    },
+    {
+        "isbn": "978-203",
+        "titulo": "El Poder del Ahora",
+        "autor": "Eckhart Tolle",
+        "peso": 0.5,
+        "valor": 42000,
+        "stock": 5
+    },
+    {
+        "isbn": "978-204",
+        "titulo": "Atomic Habits",
+        "autor": "James Clear",
+        "peso": 0.8,
+        "valor": 90000,
+        "stock": 4
+    },
+    {
+        "isbn": "978-205",
+        "titulo": "El Código Da Vinci",
+        "autor": "Dan Brown",
+        "peso": 0.9,
+        "valor": 70000,
+        "stock": 1
+    },
+    {
+        "isbn": "978-206",
+        "titulo": "Padre Rico, Padre Pobre",
+        "autor": "Robert Kiyosaki",
+        "peso": 0.7,
+        "valor": 60000,
+        "stock": 0
+    },
+    {
+        "isbn": "978-207",
+        "titulo": "El Marciano",
+        "autor": "Andy Weir",
+        "peso": 1.2,
+        "valor": 115000,
+        "stock": 2
+    },
+    {
+        "isbn": "978-208",
+        "titulo": "Hábitos Atómicos para Estudiantes",
+        "autor": "James Clear",
+        "peso": 0.6,
+        "valor": 75000,
+        "stock": 3
+    },
+    {
+        "isbn": "978-209",
+        "titulo": "Introducción al Aprendizaje Automático",
+        "autor": "Tom Mitchell",
+        "peso": 2.0,
+        "valor": 290000,
+        "stock": 1
+    },
+    {
+        "isbn": "978-210",
+        "titulo": "Eloquent JavaScript",
+        "autor": "Marijn Haverbeke",
+        "peso": 0.9,
+        "valor": 88000,
+        "stock": 4
+    }
+]
